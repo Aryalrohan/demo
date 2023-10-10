@@ -1,0 +1,26 @@
+class A{
+int a;
+public:
+A(int x){
+a=x;}
+void show(){
+cout<<a;
+}};
+class B{
+int b;
+public:
+B(int y){
+b=y;}
+void put(){
+cout<<b;}};
+class C :public A,public B{
+int c;
+public:
+c(int r,int s, int t):A(r),B(s){
+c=t;}
+void disp(){
+cout<<c;
+}};
+void main()
+C aa(5,4,3);
+aba sab function aru call garw aa. gardai 

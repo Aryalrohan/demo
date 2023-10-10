@@ -1,0 +1,5 @@
+background image 
+background-image ur("")
+background-repaeat no repeat /repeat
+hbackground-position centre 
+background-attachment fixed /scroll

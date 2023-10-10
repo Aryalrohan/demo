@@ -1,0 +1,11 @@
+Internet protocal 
+- A protcal is a  set of rule
+- Internet protocal are the set of rule governing communication within and between computer networks.
+MOST COMMONLY USED INTERNET PROTOCAL 
+Tcp/ip 
+COLOR COLOR TYPE
+FONT FAMILY
+- Font family
+- Font width 100 to 900 or blod
+- font-style bold ,italic ,normal
+- font size 16 px which is the defult text
